@@ -4,4 +4,4 @@ For example, a file called codeswift.exe requires that the swift.pkg file be in 
 
 # Requirements
 
-A macOS operating system, npm and VirtualBox must be installed, VirtualBox must contain an empty virtual machine named WIN, Chromium must be in the Applications folder. If you want to use Chrome you have to keep it open during the process. Visual Studio and the NPM firebase package must be installed to authenticate to Google systems.
+A macOS operating system, npm and VirtualBox must be installed, VirtualBox must contain an empty virtual machine named WIN, Chromium must be in the Applications folder. If you want to use Chrome you have to keep it open during the process. Visual Studio and the NPM firebase package must be installed to authenticate to Google systems. You must log in with firebase-tools using the firebase login command.
